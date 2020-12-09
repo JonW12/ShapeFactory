@@ -1,0 +1,13 @@
+C:\Users\j-ny\source\repos\ShapeFactory\ShapeFactory\bin\Debug\netcoreapp3.1\ShapeFactory.exe
+C:\Users\j-ny\source\repos\ShapeFactory\ShapeFactory\bin\Debug\netcoreapp3.1\ShapeFactory.deps.json
+C:\Users\j-ny\source\repos\ShapeFactory\ShapeFactory\bin\Debug\netcoreapp3.1\ShapeFactory.runtimeconfig.json
+C:\Users\j-ny\source\repos\ShapeFactory\ShapeFactory\bin\Debug\netcoreapp3.1\ShapeFactory.runtimeconfig.dev.json
+C:\Users\j-ny\source\repos\ShapeFactory\ShapeFactory\bin\Debug\netcoreapp3.1\ShapeFactory.dll
+C:\Users\j-ny\source\repos\ShapeFactory\ShapeFactory\bin\Debug\netcoreapp3.1\ShapeFactory.pdb
+C:\Users\j-ny\source\repos\ShapeFactory\ShapeFactory\obj\Debug\netcoreapp3.1\ShapeFactory.csprojAssemblyReference.cache
+C:\Users\j-ny\source\repos\ShapeFactory\ShapeFactory\obj\Debug\netcoreapp3.1\ShapeFactory.AssemblyInfoInputs.cache
+C:\Users\j-ny\source\repos\ShapeFactory\ShapeFactory\obj\Debug\netcoreapp3.1\ShapeFactory.AssemblyInfo.cs
+C:\Users\j-ny\source\repos\ShapeFactory\ShapeFactory\obj\Debug\netcoreapp3.1\ShapeFactory.csproj.CoreCompileInputs.cache
+C:\Users\j-ny\source\repos\ShapeFactory\ShapeFactory\obj\Debug\netcoreapp3.1\ShapeFactory.dll
+C:\Users\j-ny\source\repos\ShapeFactory\ShapeFactory\obj\Debug\netcoreapp3.1\ShapeFactory.pdb
+C:\Users\j-ny\source\repos\ShapeFactory\ShapeFactory\obj\Debug\netcoreapp3.1\ShapeFactory.genruntimeconfig.cache
